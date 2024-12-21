@@ -27,7 +27,7 @@
 <span>
 <a href="mailto:facundo.alvarezz.f@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-<a href="mailto:facundo.alvarezz.f@gmail.com" target="_blank">
+<a href=https://www.linkedin.com/in/facundo-alvarez-3b381a170/ target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white style="margin-bottom: 5px;" />
 </span>
 
